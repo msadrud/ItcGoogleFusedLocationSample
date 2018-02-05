@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Last Location</string>
+    <string name="lat_label">Last known Latitude is: </string>
+    <string name="lng_label">Last known Longitude is:</string>
+    <string name="no_location_detected">Location is not detected. Ensure location is enabled on the device.</string>
+    <string name="provide_permission_rationale">You need to provide location permission to get the desired result</string>
+</resources>
